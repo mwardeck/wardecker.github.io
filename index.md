@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Wardecker's GitHub Pages Site
 
-You can use the [editor on GitHub](https://github.com/mwardeck/wardecker.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[The Analytical Engines](https://analyticengines.org)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Your author](http://web.colby.edu/mwardeck/files/2016/02/bluedemon.jpg)
 
 ### Markdown
 
