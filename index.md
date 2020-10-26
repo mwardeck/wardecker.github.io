@@ -2,7 +2,7 @@
 
 [The Analytical Engines](https://analyticengines.org)
 
-[Your author](http://web.colby.edu/mwardeck/files/2016/02/bluedemon.jpg)
+![Your author](http://web.colby.edu/mwardeck/files/2016/02/bluedemon.jpg)
 
 ### Markdown
 
