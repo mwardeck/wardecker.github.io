@@ -3,7 +3,7 @@
 [The Analytical Engines](https://analyticengines.org)
 
 ![Your author](http://web.colby.edu/mwardeck/files/2016/02/bluedemon.jpg)
-[A special message](https://mwardeck.github.io/wardecker.github.io/goaway.html)
+[A special message](goaway.html)
 
 ### Markdown
 
